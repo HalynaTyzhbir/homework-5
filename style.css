@@ -126,7 +126,7 @@ span {
 
 .checkbox>input:checked+.text::before {
     border-color: #fff;
-    background-image: url('/img/Checklist.svg');
+    background-image: url('./img/Checklist.svg');
 }
 
 .checkbox>input:checked+.text {
